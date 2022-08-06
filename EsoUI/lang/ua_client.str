@@ -7132,7 +7132,7 @@
 [SI_NOT_ENOUGH_MONEY] = "You don't have enough gold."
 [SI_NO] = "Ні"
 [SI_NO_BAIT_IN_SLOT] = "Empty"
-[SI_NO_BAIT_OR_LURE_SELECTED] = "Need Bait"
+[SI_NO_BAIT_OR_LURE_SELECTED] = "Необхідна наживка"
 [SI_NO_DAEDRIC_PICKUP_AS_EMPEROR] = "Cannot pickup as Emperor."
 [SI_NO_DAEDRIC_PICKUP_WHEN_STEALTHED] = "Cannot pick up while stealthed."
 [SI_NO_NOTIFICATIONS_MESSAGE] = "You Have No Pending Notifications"
